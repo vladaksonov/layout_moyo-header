@@ -3,7 +3,7 @@ html {
   font-weight: 500;
   font-size: 12px;
   font-optical-sizing: auto;
-  /* stylelint-disable-next-line custom-property-empty-line-before */
+
   --blue: #00acdc;
 }
 
